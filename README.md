@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cc97029a-f3ef-45a1-b66c-6e9a1a3d21f2)# EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
+# EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
 
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
@@ -45,7 +45,7 @@ plt.ylabel('Student name')
 plt.show()
 ```
 ![image](https://github.com/user-attachments/assets/9b03ea36-bc09-4741-bc23-dd2720b2bf3f)
-![image](https://github.com/user-attachments/assets/ea31f777-6fe1-45fa-a48d-1395b43663f5)
+![image](https://github.com/user-attachments/assets/9a8b527e-923e-4627-905b-6ba0f47956e0)
 
 ```
 Scatter Plot:
